@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+
+    <string name="act_name">activity 2</string>
+    <string name="screenOrientation">2. android:screenOrientation="" ::: it fixes the orientation of the screen</string>
+    <string name="configChanges">3. android:configChanges="orientation|screenSize"....when the orientataion changes, it tells the java code</string>
+    <string name="act_b">THIS IS ACTIVITY B.... A NEW ACTIVITY</string>
+</resources>
